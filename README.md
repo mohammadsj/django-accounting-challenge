@@ -1,4 +1,4 @@
-# Django Backend Junior Assessment: Coworking Space API
+# Django Backend Assessment: Coworking Space API
 
 ## 📌 Overview
 The goal of this task is to build a simplified **Booking Engine** for a coworking space. This test evaluates your ability to design database relationships, handle complex business logic, and implement custom validations in Django Rest Framework (DRF).
